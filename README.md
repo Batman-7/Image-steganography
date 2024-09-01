@@ -18,7 +18,7 @@ This project focuses on the practice of image steganography, a method of hiding 
 ## Examples
 
 ### Encoded Image
-![Original Image](images/encode_image.png)
+![Original Image](Image-Steganography-main/images/encode.png)
 
 ### Decoded Image
-![Encoded Image](images/decode_image.png)
+![Encoded Image](Image-Steganography-main/images/decode.png)
